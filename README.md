@@ -29,7 +29,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-ignatev-00b6a3245/) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaptain_03)
   
-  ---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -48,3 +48,11 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goldenchest19&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenchest19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :hammer_and_wrench: My projects:
+  
+  1. [Registration and authentication of users using a token](https://github.com/goldenchest19/learnit/tree/main/registration)
+  2. [Markeplace-parser](https://github.com/goldenchest19/marketplace)
