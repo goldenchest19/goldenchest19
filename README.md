@@ -11,7 +11,7 @@
   
 <p align="center"><img src="https://komarev.com/ghpvc/?username=goldenchest19&style=flat-square&color=blue" alt=""/>
 <h1><p align="center">
-  hey there
+  Hi everybody!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
