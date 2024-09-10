@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/kirill-ignatev-00b6a3245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/kaptain_03">
+  <a href="https://t.me/kignatev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div>
   
@@ -20,7 +20,7 @@
 </div>
   
   ### :man_technologist: About Me :
-  I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a Java Developer with 1.5+ years experince<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I am an initial developer and I am looking for a job.
 
 - :seedling: I am actively developing and looking for new acquaintances.
