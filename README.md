@@ -20,7 +20,7 @@
 </div>
   
   ### :man_technologist: About Me :
-  I am a Java Developer with 1.5+ years experince<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a Java Developer with 2+ years experince<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I am an initial developer and I am looking for a job.
 
 - :seedling: I am actively developing and looking for new acquaintances.
